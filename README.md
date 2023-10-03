@@ -24,9 +24,7 @@ To get started with this Medical Insurance Cost Prediction project, follow these
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine using `git clone`.
 
-2. **Install Dependencies**: Ensure you have the necessary Python packages installed. You can do this by running `pip install -r requirements.txt`.
-
-3. **Explore the Notebooks**: Dive into the Jupyter notebooks to see the code and analyses behind the predictions.
+2. **Explore the Notebooks**: Dive into the Jupyter notebooks to see the code and analyses behind the predictions.
 
 ## Contributing
 
